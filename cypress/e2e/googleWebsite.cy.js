@@ -16,7 +16,7 @@ describe('Check the title of the webpage', () => {
     cy.get("input[name='btnK'][data-ved$='UDCAk']").click({timeout:5000})
     // browser based commands
     // cy.go('back')
-    // cy.go('forward')
+    // cy.go('forward')//
 
   })
 })
